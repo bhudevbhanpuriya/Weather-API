@@ -15,7 +15,10 @@ A user-friendly weather application built using **HTML**, **CSS**, **JavaScript*
 - **Backend**: FastAPI (Python)
 - **API**: RapidAPI Weather API
 
-⏱ Performance Scheenshot
+## Live Link
+- https://grand-cranachan-6302c8.netlify.app/
+
+## Performance Scheenshot
 Used Lighthouse tool to check the performance which runs a series of tests against the web page, then generates a report on how well your web page performed in those tests.
 
 ![image](https://github.com/user-attachments/assets/8e650de9-e942-488e-b2c1-4f52842a9d27)
